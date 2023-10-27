@@ -1,10 +1,10 @@
 # dependencies
-/node_modules/
-/.pnp*
+node_modules/
+.pnp*
 
 # testing
-/dist/
-/.parcel-cache/
+dist/
+.parcel-cache/
 
 # production
 /build/
