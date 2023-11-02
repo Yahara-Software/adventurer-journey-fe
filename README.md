@@ -1,5 +1,7 @@
 # Adventurer Journey - Front End
-The candidate should have a branch created for them. They will follow the setup instructions and story instructions below to create a User interface for an adventurers journey around a map. This should take no longer than a few hours. It is not intended to perseverate over the problem but to create a common talking point.
+The candidate should have a branch created for them. They will then submit their completed code back to the branch for Yahara Softare to review.
+
+They will follow the setup instructions and story instructions below to create a User interface for an adventurers journey around a map. This should take no longer than a few hours. It is not intended to perseverate over the problem but to create a common talking point.
 
 *Remember - This is a basic React application setup with Parcel.js. Please use whatever references and tooling you would like to complete the story.*
 
