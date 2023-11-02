@@ -4,8 +4,8 @@ The candidate should have a branch created for them. They will follow the setup 
 *Remember - This is a basic React application setup with Parcel.js. Please use whatever references and tooling you would like to complete the story.*
 
 ## Setup Instructions
-App Setup - [./docs/App Setup.md](./docs/resources/App%20Setup.md)
-Run Application - [./docs/Run Application.md](./docs/resources/Run%20Application.md)
+- App Setup - [./docs/App Setup.md](./docs/resources/App%20Setup.md)
+- Run Application - [./docs/Run Application.md](./docs/resources/Run%20Application.md)
 
 ## Story Instructions
 Create a User Interface to track an adventurers journey through an undiscovered area. The goal is to create an interface that can show a previous adventurers path around the map, as well as manually input directions to a new adventurer and save that path. There are 2 main views requested:
