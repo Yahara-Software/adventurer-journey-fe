@@ -31,7 +31,7 @@ You will need to create buttons and functions to move the adventurer and store p
 ![./docs/resources/adventurers_path_load_previous.jpg](./docs/resources/adventurers_path_load_previous.jpg)
 
 **Tech Notes:**
-- Use tools you would like. (For reference: Yahara’s typical stack is React / Typescript / HTML / SASS)
+- Use resources or tools you would like.
 - Fake api calls do not actually need to interact with Fetch or an api. They are just functions to fake return and save functionality.
 - Adventurer will start in the middle of the map
 - The map must be big enough to display the entire route without looping to the other side.
