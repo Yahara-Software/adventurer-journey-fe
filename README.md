@@ -13,7 +13,8 @@ Using the instructions display on the map the pathway the adventurer took. inclu
 
 Additionally create a button and functionality to clear the map back to a fresh state.
 
-Adventurer Path Instructions - [./docs/resources/Example Adventurer Paths.md](./docs/resources/Example Adventurer Paths.md)
+Adventurer Path Instructions - [./docs/resources/Example Adventurer Paths.md](./docs/resources/Example%20Adventurer%20Paths.md)
+
 ![./docs/resources/adventurers_path_create_new.jpg](./docs/resources/adventurers_path_create_new.jpg)
 
 ### Create a new Adventurers path through manual input (2 hrs)
