@@ -6,6 +6,7 @@ They will follow the setup instructions and story instructions below to create a
 *Remember - This is a basic React application setup with Parcel.js. Please use whatever references and tooling you would like to complete the story.*
 
 ## Setup Instructions
+You can use any languages, resources or tools you would like. We have included a basic React and Parcel app to jumpstart the setup process but it is not required to use. Follow the instructins below to set it up.
 - App Setup - [./docs/App Setup.md](./docs/resources/App%20Setup.md)
 - Run Application - [./docs/Run Application.md](./docs/resources/Run%20Application.md)
 
