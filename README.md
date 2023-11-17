@@ -1,12 +1,12 @@
 # Adventurer Journey - Front End
-The candidate should have a branch created for them. They will then submit their completed code back to the branch for Yahara Softare to review.
+The candidate should fork the main branch. After completing their work they will then create a PR back to the branch for Yahara Software to review.
 
-They will follow the setup instructions and story instructions below to create a User interface for an adventurers journey around a map. This should take no longer than a few hours. It is not intended to perseverate over the problem but to create a common talking point.
+They will follow the story instructions below to create a User interface for an adventurers journey around a map. This should take no longer than a few hours. It is not intended to perseverate over the problem but to create a common talking point.
 
-*Remember - This is a basic React application setup with Parcel.js. Please use whatever references and tooling you would like to complete the story.*
+*Please use whatever languages, references and tooling you would like to complete the story. We have included a basic React and Parcel app to jumpstart the setup process but it is not required to use. Follow the setup instructions below to set it up.*
 
 ## Setup Instructions
-You can use any languages, resources or tools you would like. We have included a basic React and Parcel app to jumpstart the setup process but it is not required to use. Follow the instructins below to set it up.
+The following instructions are only needed if you would like to use the basic React/Parcel app. Otherwise skip to the story instructions.
 - App Setup - [./docs/App Setup.md](./docs/resources/App%20Setup.md)
 - Run Application - [./docs/Run Application.md](./docs/resources/Run%20Application.md)
 
