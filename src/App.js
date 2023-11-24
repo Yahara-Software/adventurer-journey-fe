@@ -19,7 +19,7 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           {(this.state.selectedAdventurer === "Prinna" || this.state.selectedAdventurer === "Rain" || this.state.selectedAdventurer === "Nimbus") ?
-          <ShowPath adventurerName={this.state.selectedAdventurer}/>
+          <ShowPath adventurerName={this.state.selectedAdventurer} selectAdventurer={this.setAdventurer}/>
         :
           <SelectAdventurer selectAdventurer={this.setAdventurer}/>}
         </header>
