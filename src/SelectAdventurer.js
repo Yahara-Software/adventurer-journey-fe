@@ -10,9 +10,30 @@ class SelectAdventurer extends React.Component {
 
     render() {
         return (<div className='flex-grid'>
-            <div className="col"><button onClick={() => this.props.selectAdventurer("Prinna")}>Prinna</button></div>
-            <div className="col"><button onClick={() => this.props.selectAdventurer("Rain")}>Rain</button></div>
-            <div className="col"><button onClick={() => this.props.selectAdventurer("Nimbus")}>Nimbus</button></div>
+            <div className="col">
+                <div className="selection-image">
+                    <img src="https://placehold.co/400" />
+                </div>
+                <div>
+                    <button onClick={() => this.props.selectAdventurer("Prinna")}>Prinna</button>
+                </div>
+            </div>
+            <div className="col">
+                <div className="selection-image">
+                    <img src="https://placehold.co/400" />
+                </div>
+                <div>
+                    <button onClick={() => this.props.selectAdventurer("Rain")}>Rain</button>
+                </div>
+            </div>
+            <div className="col">
+                <div className="selection-image">
+                    <img src="https://placehold.co/400" />
+                </div>
+                <div>
+                    <button onClick={() => this.props.selectAdventurer("Nimbus")}>Nimbus</button>
+                </div>
+            </div>
             
         </div>);
     }

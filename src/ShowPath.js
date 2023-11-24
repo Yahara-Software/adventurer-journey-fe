@@ -7,7 +7,8 @@ class ShowPath extends React.Component {
         super(props);
         this.state = {
             adventurer: "",
-            path: ""
+            path: "",
+            splitPath: []
         };
 
         this.getPath = this.getPath.bind(this);
@@ -24,8 +25,10 @@ class ShowPath extends React.Component {
     }
 
     render() {
+        // 41x41 grid
+
         return (<div>
-            Selected {this.state.adventurer}
+            Selected {this.state.adventurer} {this.state.splitPath.toString()} from state
         </div>);
     }
 
@@ -43,7 +46,8 @@ class ShowPath extends React.Component {
 
         this.setState({
             adventurer: adventurerName,
-            path
+            path,
+            splitPath: path.split(/(?<=[FBLR])/)
         });
 
         console.log(adventurerName);

@@ -34,6 +34,10 @@
 .col {
   flex: 1;
 }
+.selection-image {
+  padding-right: 4px;
+  padding-left: 4px;
+}
 
 @keyframes App-logo-spin {
   from {
