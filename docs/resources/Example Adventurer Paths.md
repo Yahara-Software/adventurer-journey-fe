@@ -1,4 +1,10 @@
-_The following are 3 adventurer's paths across the map. It is recorded as the number of spaces moved and which direction: (F – Forward, B - Back, R - Right, L - Left). Example: 6F is 6 spaces forward._
+The following are 3 adventurer's paths across the map. The directions are provided in the number of steps first and the direction second. For example: 6F indicates 6 steps forward. 
+
+Possible directions are:
+- F for forward
+- B for backward
+- R for to the right
+- L for to the left
 
 Prinna
 - 15F6B6B5L16R8B16F20L6F13F11R
