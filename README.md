@@ -1,7 +1,7 @@
 # Adventurer Journey - Front End
-The candidate should fork the main branch. After completing their work they will compress (zip) their code and submit back to the storage bucket linked in the email.
+Please follow the story instructions below to create a User interface for an adventurers journey around a map. This should take no longer than a few hours. It is not intended to perseverate over the problem but to create a common talking point.
 
-They will follow the story instructions below to create a User interface for an adventurers journey around a map. This should take no longer than a few hours. It is not intended to perseverate over the problem but to create a common talking point.
+Commit any changes and push them to the remote repository for review no later than 48 hours before the next interview.
 
 *Please use whatever languages, references and tooling you would like to complete the story. We have included a basic React and Parcel app to jumpstart the setup process but it is not required to use. Follow the setup instructions below to set it up.*
 
